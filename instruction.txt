@@ -1,0 +1,13 @@
+
+1->> Which option you want to perform you have to chose from menu.
+2->> In Quick play you have shown the maze if you found any word in maze then enter
+     this word and  press enter key.
+3->> If your answer is correct then your score is incremented by 1 else your lives are 
+     decrement by 1.
+4->> Enter your choice in Digit and press enter key else you get an error.
+5->> If you want change the font color of console select the setting and then goto change font 
+     color and select your desired color and press enter key.
+6->> If you want change the bacckground color of console select the setting and then goto change 
+     background color and select your desired color and press enter key.
+5->> If you want change both font and background color of console select the setting and then goto 
+     change both font and background color and select your desired color combo and press enter key.
